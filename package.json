@@ -1,0 +1,11 @@
+{
+  "name": "node-red-contrib-acond-modbus",
+  "dependencies": {
+    "modbus-serial": "^8.0.9"
+  },
+  "node-red": {
+    "nodes": {
+      "acond-modbus": "acond-modbus.js"
+    }
+  }
+}
